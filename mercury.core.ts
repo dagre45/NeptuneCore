@@ -2,8 +2,8 @@
 // If you're running in production, you'll need to rebuild Mercury Core to apply changes.
 
 export default {
-	Name: "Mercury",
-	Domain: "mercury2.com",
+	Name: "Neptune",
+	Domain: "neptunegaming.xyz",
 	DatabaseURL: "http://localhost:8000",
 	RCCServiceProxyURL: "http://localhost:64990",
 	LauncherURI: "mercury-player:",
